@@ -1,0 +1,23 @@
+@import "reset";
+
+$bgcolor: #f8f8f8;
+
+html {
+  background: $bgcolor;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h1 {
+  padding: 1rem 0;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.user-input {
+  text-align: center;
+  margin-bottom: 20px;
+}
